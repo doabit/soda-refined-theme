@@ -1,10 +1,10 @@
 # Soda Refined Theme
 
-A refined version of Ian Hill's excellent [Soda Theme](https://github.com/buymeasoda/soda-theme).
+A fork version of [Soda Refined Theme](https://github.com/cafarm/soda-refined-theme).
 
 ## Design
 
-![Soda Light Refined Theme](http://i.imgur.com/PrRZx.png)
+![Soda Light Refined Theme](http://i.imgur.com/YTLfO.png)
 
 ![Soda Dark Refined Theme](http://i.imgur.com/rYx0h.png)
 
